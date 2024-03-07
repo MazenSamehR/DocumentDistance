@@ -1,0 +1,27 @@
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Projects\Algorithms\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Projects\Algorithms\Competitions\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+C:\Users\MAC\Downloads\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
